@@ -1,0 +1,2 @@
+This is the prompt used to create this script, LLM one shotted it:
+let's create a simple python script that will convert HEIC image format to PNG. The path to HEIC should be provided in command line and resulting file should also be output to the same location where the original file is. I would like to be able to always run this script from my terminal so it needs to be added to path using some install script
